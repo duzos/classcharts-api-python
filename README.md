@@ -17,7 +17,7 @@
 pip install classcharts
 ```
 
-It uses [`requests`](https://pypi.org/project/requests/), but the package doesn't declare it as a dependency yet — install it alongside:
+It uses [`requests`](https://pypi.org/project/requests/), but the package doesn't declare it as a dependency yet - install it alongside:
 
 ```bash
 pip install requests
@@ -38,7 +38,7 @@ client.login()
 
 ## Status
 
-This is an **early (`0.0.1`)** release — the student login flow works; higher-level helpers are still being built out.
+This is an **early (`0.0.1`)** release - the student login flow works; higher-level helpers are still being built out.
 
 ### Clients
 - [x] Student client
